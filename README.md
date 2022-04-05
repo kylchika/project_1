@@ -3,7 +3,7 @@
 ## Оглавление
 [0.Ссылка на файл с исходными данными](https://drive.google.com/file/d/1_U-dYlswEn8JbakD0G3WulRinQa8CSd-/view?usp=sharing)
 
-[1.Описание проекта](https://github.com/kylchika/project_1/edit/main/README.md#описание-проекта) 
+[1.Описание проекта](https://github.com/kylchika/project_1/blob/main/README.md#описание-проекта) 
 
 [2. Какой кейс решаем?](https://github.com/kylchika/project_1/edit/main/README.md#какой-кейс-решаем)
 
