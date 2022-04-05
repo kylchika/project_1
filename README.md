@@ -1,4 +1,5 @@
-# Проект 1. Анализ вакансий на HeadHunter# project_1
+# Проект 1. Анализ вакансий на HeadHunter
+
 ## Оглавление
 [0.Ссылка на файл с исходными данными](https://drive.google.com/file/d/1_U-dYlswEn8JbakD0G3WulRinQa8CSd-/view?usp=sharing)
 
