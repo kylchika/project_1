@@ -1,6 +1,6 @@
 # Проект 1. Анализ вакансий на HeadHunter# project_1
 ## Оглавление
-[0.Ссылка на файл с исходными данными](https://colab.research.google.com/drive/1_U-dYlswEn8JbakD0G3WulRinQa8CSd-)
+[0.Ссылка на файл с исходными данными](https://drive.google.com/file/d/1_U-dYlswEn8JbakD0G3WulRinQa8CSd-/view?usp=sharing)
 
 [1.Описание проекта](https://github.com/kylchika/project_1/edit/main/README.md#описание-проекта) 
 
@@ -33,7 +33,7 @@
 Краткая информация о данных
 Датасет состоит из 44744 строк и 12 признаков.
 
-Ссылка файл с исходными данными: https://colab.research.google.com/drive/1_U-dYlswEn8JbakD0G3WulRinQa8CSd-
+Ссылка файл с исходными данными: https://drive.google.com/file/d/1_U-dYlswEn8JbakD0G3WulRinQa8CSd-/view?usp=sharing
 
 :arrow_up:[к оглавлению](https://github.com/kylchika/project_1/edit/main/README.md#оглавление)
 
